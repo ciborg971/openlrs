@@ -1,4 +1,4 @@
-#summary TableOfContents
+#sidebar TableOfContents
 
 = Using Our 7W Booster with OpenLRS =
 
