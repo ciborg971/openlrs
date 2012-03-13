@@ -1,5 +1,5 @@
  * [About About]
- * [Howto Howto Guides]
+ * [HowTo Howto Guides]
  * [WhichFirmware Which Firmware?]
  * [Licence License and Disclaimer]
 
