@@ -17,7 +17,7 @@ The receiver includes an 3.3v I2C port for all sensor boards on the market. You 
 <b>Serial or Parallel PPM selectable</b>
 If you are using an autopilot/multicopter controller with serial PPM. You dont need any firmware change. Just plug a jumper (binding plugs of 2.4ghz receivers) between channel 1 and 3's signal outputs. OpenLRS Rx detects the jumper when startup and gives 2 short blink. This mean it's giving serial PPM signal from 8th channel. 
 
-You dont need external multicopter controllers or autopilots
+<b>You dont need external multicopter controllers or autopilots</b>
 OpenLRS Rx module, including serial and I2C ports for your future projects. Just include a WiiMotionPlus and upload your code for making a basic quadrocopter. Add a Wii Nunchuck and you have 6DOF IMU. or just buy a 9DOF IMU and connect. Our 3.3v I2C port compatible with all of modern I2C sensors. You can connect your GPS or other Serial equipments with serial port.
 
 <b>Telemetry</b>
