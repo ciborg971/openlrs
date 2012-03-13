@@ -5,4 +5,4 @@
 A number of guides have been written by various members of the team. These are listed below:
 
 
- * <a href="http://er9x.googlecode.com/svn/trunk/doc/Er9x450helisetup.pdf">Using with 7W Booster</a>
+ * [UsingBooster Using with 7W Booster]
