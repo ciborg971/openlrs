@@ -1,5 +1,5 @@
  * [About About]
- * [WhyER9X Why use er9x]
+ * [WhyOpenLRS Why use OpenLRS]
  * [Licence License and Disclaimer]
  * [Howto Howto Guides]
 
