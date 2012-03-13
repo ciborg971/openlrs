@@ -1,7 +1,7 @@
  * [About About]
- * [WhyOpenLRS Why use OpenLRS]
- * [Licence License and Disclaimer]
  * [Howto Howto Guides]
+ * [WhichFirmware Which Firmware?]
+ * [Licence License and Disclaimer]
 
 
          
